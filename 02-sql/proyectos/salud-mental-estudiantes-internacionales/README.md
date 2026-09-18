@@ -221,11 +221,11 @@ comparaciones múltiples, análisis que excede el alcance de esta consulta.
 ```
 salud-mental-estudiantes-internacionales/
 ├── README.md
-├── analisis-salud-mental.ipynb
+├── mental_health_analysis.ipynb
 ├── data/
 │   └── students.csv
 └── img/
-    └── portada.png
+    └── portada.jpg
 ```
  
 ---
