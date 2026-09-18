@@ -5,7 +5,7 @@
 > 20,5 % entre el primer y el cuarto año de estancia, mientras la conexión social se deteriora
 > en paralelo.
  
-![Puntuaciones medias por duración de la estancia](./img/portada.png)
+![Puntuaciones medias por duración de la estancia](./img/portada.jpg)
  ---
  ## Contexto y objetivo
  
